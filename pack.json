@@ -1,0 +1,10 @@
+{
+  "name": "Heisoku no kakudai",
+  "description": "From The End of Evangelion Album.. for menu music converted to mp3 328kbps from FLAC. ",
+  "author": "asdR",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
